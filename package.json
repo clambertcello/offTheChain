@@ -1,0 +1,24 @@
+{
+  "name": "offthechain",
+  "version": "1.0.0",
+  "description": "PP: Off The Chain",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clambertcello/offTheChain.git"
+  },
+  "author": "Colin Lambert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clambertcello/offTheChain/issues"
+  },
+  "homepage": "https://github.com/clambertcello/offTheChain#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
